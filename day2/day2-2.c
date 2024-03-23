@@ -8,6 +8,7 @@
 #include <ctype.h> // pour isalpha 
 #include <unistd.h> // pour getpid 
 
+
 int main(){
 
     FILE* file;
