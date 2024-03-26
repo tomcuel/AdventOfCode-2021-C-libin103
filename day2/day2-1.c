@@ -41,6 +41,7 @@ int main(){
         }
     }
 
+
     // formula to calculate the answer
     int answer=horizontal*depth;
     printf("\nThe answer is %d\n\n", answer);
