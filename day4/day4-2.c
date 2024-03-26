@@ -338,4 +338,4 @@ int main (){
 
 // there is the need to not remove the last line of the input for the result to be correct
 // or to add a new line at the end of the input file if there's no new line at the end of the file
-// I found 4512 with the test.txt file as expected
+// I found 1924 with the test.txt file as expected
