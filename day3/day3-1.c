@@ -8,6 +8,7 @@
 #include <ctype.h> // pour isalpha 
 #include <unistd.h> // pour getpid 
 
+
 // function that returns the decimal number of the binary number
 int convert_to_decimal(int* binary, int len){
     int decimal = 0;
