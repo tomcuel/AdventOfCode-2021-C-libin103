@@ -9,4 +9,5 @@ I will use the libin103 library :
 - here's the link to get the documentation (very pratical to know what's in there)
 - https://perso.ensta-paris.fr/~chapoutot/teaching/in103/refman/index.html
 - because it will allow me to code in C without the difficulty of having to code every tree traversal such as DFS or BFS
+- It wasn't very useful for me for most of the time, but sometimes it does help a lot
 - using makefile will be easier to compile the C code, the one here will only work for me
