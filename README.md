@@ -1,4 +1,4 @@
-I will do Advent Of Code 2021 using C 
+I will do Advent Of Code 2021 using C language 
 
 here is the link of the website : https://adventofcode.com/2021
 
