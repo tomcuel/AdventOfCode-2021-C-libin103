@@ -20,4 +20,4 @@ clean:
 	rm -f *.o
 
 realclean: clean
-	rm -f *.x
+	rm -f *.x test
