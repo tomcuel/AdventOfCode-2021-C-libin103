@@ -12,6 +12,9 @@
 // But it can be done with it 
 // we associate a number to each cave, and do things with integer_set and integer_graph 
 // it's possible to do that 
+// I've not done it for part 2, but it's the same type of things again 
+// but here it will be more compicated to use some sets since we have to consider the number of times we've visited a small cave
+// it's not only true or false anymore
 
 #define MAX_STRING_LENGTH 100
 

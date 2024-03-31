@@ -8,10 +8,13 @@
 #include <ctype.h> // pour isalpha 
 #include <unistd.h> // pour getpid 
 
+
 // I have chosen to do it without the lib 
 // But it can be done with it 
 // we associate a number to each cave, and do things with integer_set and integer_graph 
 // it's possible to do that 
+// I've done it in another file 
+
 
 #define MAX_STRING_LENGTH 100
 
