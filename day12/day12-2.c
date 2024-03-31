@@ -14,7 +14,7 @@
 // it's possible to do that 
 // I've not done it for part 2, but it's the same type of things again 
 // but here it will be more compicated to use some sets since we have to consider the number of times we've visited a small cave
-// it's not only true or false anymore
+// it's not only true or false anymore, so it could have been difficult to use sets, but still easy to us graphs
 
 #define MAX_STRING_LENGTH 100
 
