@@ -10,7 +10,7 @@
 
 // I have chosen to do it without the lib 
 // But it can be done with it 
-// we associate a number to each cave, and do things with integer_set and integer_graph 
+// we associate a number to each cave, and do things with integer_set (here it will not be possible since we consider a number of visited times) and integer_graph 
 // it's possible to do that 
 // I've not done it for part 2, but it's the same type of things again 
 // but here it will be more compicated to use some sets since we have to consider the number of times we've visited a small cave
@@ -185,7 +185,7 @@ void dfs(char** caves, int* visited, char*** adjacent_list, int nb_strings, char
 int main (){
 
     // getting the input 
-    const char* filename = "input12.txt";
+    const char* filename = "test.txt";
     FILE* file = fopen(filename, "r");
     char line[10];
     int nb_lines = 0;
