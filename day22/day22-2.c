@@ -9,6 +9,8 @@
 #include <unistd.h> // pour getpid  
 
 
+// non successful attempt to solve the problem
+
 
 // here we want to count the number of pixels that are on
 // to do so, we will do it not by brute force, but by figuring out the number of pixels that are on in each cube of the input 
