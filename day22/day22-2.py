@@ -77,7 +77,6 @@ for i in range(len(instructions)):
     for c in new_count_cube:
         count_cube[c] += new_count_cube[c]
 
-
 ans = 0
 # getting the number of pixels that are on
 for cube in count_cube:
