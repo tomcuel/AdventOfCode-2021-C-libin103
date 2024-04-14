@@ -241,6 +241,7 @@ int get_the_final_value_for_operator_packet(int type_ID, int* values, int lenght
 }
 
 
+
 // function that parse the binary array input and return the answer of the puzzle 
 // i represents the starting index of the parsing 
 // j represents the end of the parsing

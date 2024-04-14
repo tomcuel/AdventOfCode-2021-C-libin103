@@ -6,6 +6,7 @@ with open("input16.txt") as fin:
 data = bin(int(raw_data, base=16))[2:]
 data = data.zfill(-(-len(data)//4) * 4)
 
+
 # function that returns the number corresponding to the type_ID and the value array given 
 # for example, if the type_ID is 0, it returns the sum of the values in the values array
 def operate(typeID, values):
